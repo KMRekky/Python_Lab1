@@ -9,4 +9,4 @@
 # Opis wyjątku
 # ValueError - występuje przy błędnej wartości argumentu
 # Dokumentacja: https://docs.python.org/3/library/exceptions.html#ValueError
-print("Dokumentacja programu - przykładowa treść")
+
